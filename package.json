@@ -1,0 +1,22 @@
+{
+  "name": "example-demo",
+  "version": "1.0.0",
+  "workspaces": [
+    "./app/*"
+  ],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiang47199/example-demo.git"
+  },
+  "author": "WenQiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiang47199/example-demo/issues"
+  },
+  "homepage": "https://github.com/qiang47199/example-demo#readme"
+}
